@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.TYSS.Practice.Practice_01"/>
+      <class name="com.TYSS.Vtiger.Practice_01"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
